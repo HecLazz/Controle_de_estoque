@@ -1,0 +1,9 @@
+adesivo:brilho:1.50
+adesivo:fosco:1.27
+adesivo:fosco:1.50
+lona:backlight:1.00
+lona:backlight:2.00
+lona:frontlight:1.00
+lona:frontlight:1.27
+tinta:amarelo:uv
+tinta:ciano:solvente
